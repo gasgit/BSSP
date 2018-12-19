@@ -1,0 +1,16 @@
+1545182594202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EB8JpRtn7BSo"
+
+(firefox:7301): Gtk-WARNING **: 01:23:14.251: Theme parsing error: gtk.css:3841:23: Junk at end of value for outline-offset
+1545182594683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545182594684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(/usr/lib/firefox/firefox:7384): Gtk-WARNING **: 01:23:15.533: Theme parsing error: gtk.css:3841:23: Junk at end of value for outline-offset
+
+(/usr/lib/firefox/firefox:7407): Gtk-WARNING **: 01:23:15.797: Theme parsing error: gtk.css:3841:23: Junk at end of value for outline-offset
+1545182596470	Marionette	INFO	Listening on port 37145
+1545182596512	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7461): Gtk-WARNING **: 01:23:16.640: Theme parsing error: gtk.css:3841:23: Junk at end of value for outline-offset
+[Parent 7301, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 7301, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wWf_B4/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1545182607309	Marionette	INFO	Stopped listening on port 37145
